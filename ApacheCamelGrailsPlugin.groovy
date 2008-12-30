@@ -1,13 +1,13 @@
 class ApacheCamelGrailsPlugin {
-    def version = 0.1
+    def version = 0.3
     def dependsOn = [:]
 
-    // TODO Fill in these fields
-    def author = "Your name"
-    def authorEmail = ""
-    def title = "Plugin summary/headline"
+    def author = "Tony Baines	"
+    def authorEmail = "tony.baines.1@gmail.com"
+    def title = "Integrate Apache Camel into Grails"
     def description = '''\
-Brief description of the plugin.
+Use the power of Apache Camel to implement the Enterprise Integration Patterns
+(EIP) in Grails applications.
 '''
 
     // URL to the plugin's documentation
