@@ -5,3 +5,4 @@ plugin.xml
 apache-camel.launch
 apache-camel.tmproj
 grails-apache-camel-0.1.zip
+stacktrace.log
