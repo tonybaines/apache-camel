@@ -1,8 +1,0 @@
-web-app/plugins
-web-app/WEB-INF/classes
-docs
-plugin.xml
-apache-camel.launch
-apache-camel.tmproj
-grails-apache-camel-0.1.zip
-stacktrace.log
